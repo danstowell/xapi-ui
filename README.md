@@ -6,7 +6,7 @@ Description
 
 A web user interface for building for building XAPI URLS.
 
-See it running: http://harrywood.co.uk/maps/uixapi/xapi.html
+See it running: http://danstowell.github.com/xapi-ui/
 
 This repository provides an HTML based frontend to OpenStreetMap's
 XAPI service, providing easy to use access to its most common feature
